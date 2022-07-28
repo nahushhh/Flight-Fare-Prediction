@@ -8,3 +8,4 @@ This model helps in predicting the fare of flight tickets based on the following
 6. Departure Time
 7. Whether it is a night flight 
 8. Whether the passenger is travelling during festive season
+9. Airline
